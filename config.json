@@ -1,17 +1,17 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "328a3bb0a7"
   },
   "options": {
     "autoRead": false,
     "self": false,
     "mute": false,
-    "limitCount": 20,
-    "limitGame": 20
+    "limitCount": 15,
+    "limitGame": 15
   },
   "exif": {
-    "packname": "zenzapi",
+    "packname": "bot-x",
     "author": "https://zenzapi.xyz"
   },
   "owner": [
